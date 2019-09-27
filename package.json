@@ -5,16 +5,16 @@
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A freelancer portfolio HTML theme for Bootstrap.",
+    "description": "jaket pria dan wanita murah 100% original, kualitas terjamin Wa: 085777444611",
     "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+        "jaket pria",
+        "jaket wanita",
+        "jaket murah",
+        "jaket hoodie",
+        "jaket gunung",
+        "jaket jeans"
     ],
-    "homepage": "sellergo.github.io",
+    "homepage": "https://varianstore.me",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer/issues",
         "email": "feedback@startbootstrap.com"
